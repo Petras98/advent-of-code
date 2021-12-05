@@ -1,5 +1,5 @@
 // Thaddeus "Peter" White | Petras98
-// https://adventofcode.com/2021/day/2
+// https://adventofcode.com/2021/day/3
 
 use std::fs::File;
 use std::io::{self, BufRead};
